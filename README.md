@@ -15,7 +15,7 @@ Footer: Es la parte inferior de la página web, ahí podremos poner enlaces y ta
 
 ## ¿Cómo se llama cuando le das información extra a un elemento?
 
-La información extra en los atributos sobre los elementos de HTML. Se incluyen siempre en el inicio de una etiqueta y están compuestos por dos partes: el nombre del atributo y el valor del atributo, separados por un signo igual. El valor del atributo está siempre entre comillas. Por ejemplo, en la etiqueta <img src="imagen.jpg">, src es un atributo que proporciona la ubicación de la imagen que se va a mostrar.
+La información extra en los atributos sobre los elementos de HTML. Se incluyen siempre en el inicio de una etiqueta y están compuestos por dos partes: el nombre del atributo y el valor del atributo, separados por un signo igual. El valor del atributo está siempre entre comillas. Por ejemplo, en la etiqueta <img src=""imagen.jpg"">, src es un atributo que proporciona la ubicación de la imagen que se va a mostrar.
 
 ## ¿Qué es un elemento semántico?
 
